@@ -51,10 +51,10 @@
 ## 🎲 Featured Game Projects
 
 ### Unity 3D Game Project
-(https://github.com/YourUsername/GameProjectName](https://github.com/kanishkagayanath/Rollathon-3D-game-)
+(https://www.shutterstock.com/image-vector/glass-red-ball-precious-pearl-600nw-1788430664.jpg)(https://github.com/kanishkagayanath/Rollathon-3D-game-)
 
 ### 2D Platformer Game
-[![2D Game](https://static.wikia.nocookie.net/annoyingorange/images/1/19/FlappyBird.png/revision/latest/thumbnail/width/360/height/450?cb=20140725210326)](https://github.com/YourUsername/2DGameName](https://github.com/kanishkagayanath/Flappy-Bird-2D-game)
+(https://static.wikia.nocookie.net/annoyingorange/images/1/19/FlappyBird.png/revision/latest/thumbnail/width/360/height/450?cb=20140725210326)(https://github.com/kanishkagayanath/Flappy-Bird-2D-game)
 
 ## 🎮 Game Development Skills
 
