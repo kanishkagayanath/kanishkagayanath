@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=7BF7BD&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Kanishka+Gayanath+Ranasingha;Game+Developer+%F0%9F%8E%AE;Software+Engineer+%F0%9F%92%BB;Unity+Expert+%F0%9F%8E%AF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=7BF7BD&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Kanishka+Gayanath;Game+Developer+%F0%9F%8E%AE;Software+Engineer+%F0%9F%92%BB;Unity+Expert+%F0%9F%8E%AF" alt="Typing SVG" />
 </h2>
 
 <div align="center">
@@ -13,7 +13,7 @@
       <img src="https://img.shields.io/badge/-Kanishka_Gayanath-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kanishka-gayanath-ranasingha-98b1b0180/"/>
     </a>
     <a href="https://twitter.com/kanishkagayana1">
-      <img src="https://img.shields.io/badge/-@kanishkagayana1-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kanishkagayana1"/>
+      <img src="https://img.shields.io/badge/-kanishkagayana1-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kanishkagayana1"/>
     </a>
     <a href="mailto:your-kanishka.gayanath1@gmail.com">
       <img src="https://img.shields.io/badge/-Email_Me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your-kanishka.gayanath1@gmail.com"/>
