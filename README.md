@@ -1,7 +1,7 @@
 # Hi there, I'm Kanishka Gayanath Ranasingha 👋 
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/ca/5d/41/ca5d416a4bd6685adfc3d8b2e61122e3.jpg" alt="Game Developer Banner" />
+  <img src="https://i.pinimg.com/736x/87/d2/1a/87d21a9193a30c802429fbf4d312a233.jpg" alt="Game Developer Banner" />
   <h3>Software Engineer | Game Developer | Unity Expert</h3>
 </div>
 
