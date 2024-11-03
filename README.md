@@ -1,56 +1,105 @@
-# Hi there, I'm [Your Name] 👋 
+# Hi there, I'm Kanishka Gayanath Ranasingha 👋 
 
 <div align="center">
-  <img src="/api/placeholder/800/200" alt="Banner Image" />
+  <img src="/api/placeholder/800/200" alt="Game Developer Banner" />
+  <h3>Software Engineer | Game Developer | Unity Expert</h3>
 </div>
 
-## 🚀 About Me
+## 🎮 About Me
 
-- 🎓 Computer Science student passionate about technology
-- 💻 Full Stack Developer in training
-- 🌱 Currently learning [Your Current Focus]
-- 🤝 Looking to collaborate on open-source projects
-- 🎯 Goal: Contributing to innovative tech solutions
+- 🎯 Software Engineer specializing in game development
+- 🕹️ Passionate about creating immersive 2D and 3D games
+- 💻 Experienced in developing various software applications
+- 🌱 Currently exploring advanced Unity features and game optimization
+- 🤝 Open to collaborate on game development and software projects
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
+
+## 🎯 Expertise
+
+- **Game Development**
+  - Unity Engine (2D & 3D)
+  - Game Physics & Mechanics
+  - Character Controllers
+  - UI/UX Design for Games
+  - Performance Optimization
+
+- **Software Development**
+  - Desktop Applications
+  - Cross-platform Solutions
+  - System Architecture
+  - API Integration
+  - Database Management
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## 🌟 Featured Projects
+## 🎲 Featured Game Projects
 
-### Project 1
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=ProjectName&theme=radical)](https://github.com/YourUsername/ProjectName)
+### Unity 3D Game Project
+[![Game Project](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=GameProjectName&theme=tokyonight)](https://github.com/YourUsername/GameProjectName)
 
-### Project 2
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=ProjectName&theme=radical)](https://github.com/YourUsername/ProjectName)
+### 2D Platformer Game
+[![2D Game](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=2DGameName&theme=tokyonight)](https://github.com/YourUsername/2DGameName)
+
+## 💻 Software Projects
+
+### Desktop Application
+[![Software Project](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=SoftwareProjectName&theme=tokyonight)](https://github.com/YourUsername/SoftwareProjectName)
+
+## 🎮 Game Development Skills
+
+```
+🎯 Game Design
+━━━━━━━━━━━━━━━ 95%
+
+🎨 Unity Development
+━━━━━━━━━━━━━━ 90%
+
+🔧 C# Programming
+━━━━━━━━━━━━━━ 90%
+
+📱 Mobile Game Development
+━━━━━━━━━━━━ 85%
+
+🎬 Animation & VFX
+━━━━━━━━━━ 80%
+```
 
 ## 📫 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourUsername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourUsername)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://itch.io/YourUsername)
 
 </div>
+
+## 🎮 Latest Game Releases
+
+- 🚀 [Game Name 1] - A 3D adventure game with unique mechanics
+- 🏃‍♂️ [Game Name 2] - Fast-paced 2D platformer
+- 🧩 [Game Name 3] - Puzzle game with innovative gameplay
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YourUsername&color=blueviolet&style=flat-square" alt="Profile views" />
+  
+  ### "Creating games that bring joy and innovation to players worldwide"
 </div>
