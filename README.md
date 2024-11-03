@@ -1,7 +1,7 @@
 # Hi there, I'm Kanishka Gayanath Ranasingha 👋 
 
 <div align="center">
-  <img src="[/api/placeholder/800/200](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fkg-letter-logo-design-initial-letters-kg-logo-icon-abstract-letter-kg-minimal-logo-design-templat--964474076435882777%2F&psig=AOvVaw0zY8JpxAC1ttpq85-E8A5J&ust=1730741330788000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiV8P7XwIkDFQAAAAAdAAAAABAE)" alt="Game Developer Banner" />
+  <img src="https://i.pinimg.com/originals/ca/5d/41/ca5d416a4bd6685adfc3d8b2e61122e3.jpg" alt="Game Developer Banner" />
   <h3>Software Engineer | Game Developer | Unity Expert</h3>
 </div>
 
