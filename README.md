@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=7BF7BD&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Kanishka+Ranasingha;Game+Developer+%F0%9F%8E%AE;Software+Engineer+%F0%9F%92%BB;Unity+Expert+%F0%9F%8E%AF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=7BF7BD&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Kanishka+Gayanath+Ranasingha;Game+Developer+%F0%9F%8E%AE;Software+Engineer+%F0%9F%92%BB;Unity+Expert+%F0%9F%8E%AF" alt="Typing SVG" />
 </h2>
 
 <div align="center">
@@ -9,14 +9,14 @@
   
   <!-- Animated Social Links -->
   <p>
-    <a href="https://linkedin.com/in/YourUsername">
-      <img src="https://img.shields.io/badge/-Kanishka_Ranasingha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YourUsername/"/>
+    <a href="https://linkedin.com/in/kanishka-gayanath-ranasingha-98b1b0180">
+      <img src="https://img.shields.io/badge/-Kanishka_Gayanath-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kanishka-gayanath-ranasingha-98b1b0180/"/>
     </a>
-    <a href="https://twitter.com/YourUsername">
-      <img src="https://img.shields.io/badge/-@YourUsername-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/YourUsername"/>
+    <a href="https://twitter.com/kanishkagayana1">
+      <img src="https://img.shields.io/badge/-@kanishkagayana1-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kanishkagayana1"/>
     </a>
-    <a href="mailto:your-email@example.com">
-      <img src="https://img.shields.io/badge/-Email_Me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your-email@example.com"/>
+    <a href="mailto:your-kanishka.gayanath1@gmail.com">
+      <img src="https://img.shields.io/badge/-Email_Me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your-kanishka.gayanath1@gmail.com"/>
     </a>
     <a href="https://itch.io/YourUsername">
       <img src="https://img.shields.io/badge/-Itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white&link=https://itch.io/YourUsername"/>
@@ -81,95 +81,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=YourUsername&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
 </div>
 
-<div align="center">
-  <img src="https://i.pinimg.com/736x/87/d2/1a/87d21a9193a30c802429fbf4d312a233.jpg" alt="Game Developer Banner" />
-  <h3>Software Engineer | Game Developer | Unity Expert</h3>
-</div>
-
-## 🎮 About Me
-
-- 🎯 Software Engineer specializing in game development
-- 🕹️ Passionate about creating immersive 2D and 3D games
-- 💻 Experienced in developing various software applications
-- 🌱 Currently exploring advanced Unity features and game optimization
-- 🤝 Open to collaborate on game development and software projects
-
-## 🛠️ Technical Skills
-
-<div align="center">
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-</div>
-
-## 🎯 Expertise
-
-- **Game Development**
-  - Unity Engine (2D & 3D)
-  - Game Physics & Mechanics
-  - Character Controllers
-  - UI/UX Design for Games
-  - Performance Optimization
-
-- **Software Development**
-  - Desktop Applications
-  - Cross-platform Solutions
-  - System Architecture
-  - API Integration
-  - Database Management
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-## 🎲 Featured Game Projects
-
-### Unity 3D Game Project
-(https://github.com/kanishkagayanath/Rollathon-3D-game-)
-
-### 2D Platformer Game
-(https://github.com/kanishkagayanath/Flappy-Bird-2D-game)
-
-## 🎮 Game Development Skills
-
-```
-🎯 Game Design
-━━━━━━━━━━━━━━━ 95%
-
-🎨 Unity Development
-━━━━━━━━━━━━━━ 90%
-
-🔧 C# Programming
-━━━━━━━━━━━━━━ 90%
-
-📱 Mobile Game Development
-━━━━━━━━━━━━ 85%
-
-🎬 Animation & VFX
-━━━━━━━━━━ 80%
-```
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanishka-gayanath-ranasingha)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://itch.io/kanishkagayanath)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&color=blueviolet&style=flat-square" alt="Profile views" />
-  
-  ### "Creating games that bring joy and innovation to players worldwide"
-</div>
