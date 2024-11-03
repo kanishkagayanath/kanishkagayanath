@@ -51,10 +51,10 @@
 ## 🎲 Featured Game Projects
 
 ### Unity 3D Game Project
-(https://www.shutterstock.com/image-vector/glass-red-ball-precious-pearl-600nw-1788430664.jpg)(https://github.com/kanishkagayanath/Rollathon-3D-game-)
+(https://github.com/kanishkagayanath/Rollathon-3D-game-)
 
 ### 2D Platformer Game
-(https://static.wikia.nocookie.net/annoyingorange/images/1/19/FlappyBird.png/revision/latest/thumbnail/width/360/height/450?cb=20140725210326)(https://github.com/kanishkagayanath/Flappy-Bird-2D-game)
+(https://github.com/kanishkagayanath/Flappy-Bird-2D-game)
 
 ## 🎮 Game Development Skills
 
@@ -79,17 +79,11 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourUsername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanishka-gayanath-ranasingha)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://itch.io/YourUsername)
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://itch.io/kanishkagayanath)
 
 </div>
-
-## 🎮 Latest Game Releases
-
-- 🚀 [Game Name 1] - A 3D adventure game with unique mechanics
-- 🏃‍♂️ [Game Name 2] - Fast-paced 2D platformer
-- 🧩 [Game Name 3] - Puzzle game with innovative gameplay
 
 ---
 
