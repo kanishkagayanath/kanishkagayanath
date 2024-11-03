@@ -51,15 +51,10 @@
 ## 🎲 Featured Game Projects
 
 ### Unity 3D Game Project
-[![Game Project](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=GameProjectName&theme=tokyonight)](https://github.com/YourUsername/GameProjectName)
+[![Game Project]([https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=GameProjectName&theme=tokyonight)](https://github.com/YourUsername/GameProjectName](https://github.com/kanishkagayanath/Rollathon-3D-game-)
 
 ### 2D Platformer Game
-[![2D Game](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=2DGameName&theme=tokyonight)](https://github.com/YourUsername/2DGameName)
-
-## 💻 Software Projects
-
-### Desktop Application
-[![Software Project](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=SoftwareProjectName&theme=tokyonight)](https://github.com/YourUsername/SoftwareProjectName)
+[![2D Game]([https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=2DGameName&theme=tokyonight)](https://github.com/YourUsername/2DGameName](https://github.com/kanishkagayanath/Flappy-Bird-2D-game)
 
 ## 🎮 Game Development Skills
 
