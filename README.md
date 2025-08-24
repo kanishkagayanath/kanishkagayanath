@@ -9,8 +9,12 @@
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
+<!--profile views-->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=kanishkagayanath&label=Profile%20views&color=0e75b6&style=flat" alt="kanishkagayanath"/> 
+</p>
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me    
 
 <img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
