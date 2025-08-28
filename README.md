@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Kanishka Gayanath Ranasinghe
 
-## 🎮 Game Developer | 💻 Software Engineer | 🚀 Unity & Godot Developer 
+## 🎮 Game Developer | 💻 Software Engineer | 🚀 Unity Developer 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=2000&pause=1000&color=FF6B00&center=true&vCenter=true&width=800&lines=%F0%9F%95%B9%EF%B8%8F+GAME+DEVELOPER+%F0%9F%95%B9%EF%B8%8F" alt="Gaming Animation" />
@@ -22,7 +22,7 @@ I'm a passionate game developer and software engineer from Sri Lanka 🇱🇰, d
 
 **What I'm up to:**
 - 🎯 Working on exciting new game projects
-- 🌱 Learning advanced Unity and Godot optimization techniques  
+- 🌱 Learning advanced Unity optimization techniques  
 - 🤝 Open to game development collaborations
 - 💡 Always exploring new technologies and game design patterns
 
@@ -35,14 +35,12 @@ I'm a passionate game developer and software engineer from Sri Lanka 🇱🇰, d
 ### 🎮 Game Engines
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot"/>
 </p>
 
 ### 💻 Programming Languages
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
-  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="GDScript"/>
 </p>
 
 ### 🛠️ Tools & Platforms
@@ -67,7 +65,6 @@ I'm a passionate game developer and software engineer from Sri Lanka 🇱🇰, d
 | Skill | Proficiency |
 |-------|-------------|
 | **Unity 2D/3D Development** | ████████████████████ 95% |
-| **Godot Engine** | ████████████████░░░░ 80% |
 | **Game Design & Mechanics** | ███████████████████░ 95% |
 | **UI/UX Design** | ██████████████████░░ 90% |
 | **Physics & Animation** | █████████████████░░░ 85% |
