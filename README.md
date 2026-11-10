@@ -6,22 +6,61 @@
   <a href="mailto:kanishka.gayanath1@gmail.com">Email</a> ·
   <a href="https://github.com/kanishkagayanath?tab=repositories">View projects</a> ·
   <a href="https://twitter.com/kanishkagayana1">X</a>
-</p>Profile
-I'm a game developer and software engineer based in Sri Lanka, focused on Unity and C#. I build 2D and 3D experiences for mobile, desktop, and the web, with an emphasis on responsive gameplay, clear interfaces, and consistent performance.
-Development focus
-- Gameplay systems — Player controls, game mechanics, physics, and animation.
-- UI and interaction — Menus, transitions, and feedback that support the player experience.
-- Performance and tooling — Mobile optimization and reusable development systems.
-Technical skills
-Category	Technologies
-Engine	Unity
-Languages	C# · Python
-Development	Visual Studio · VS Code · Git · GitHub
-Design	Blender · Adobe Illustrator
-
-
-Open to game development collaborations and software engineering opportunities. For enquiries, connect with me on LinkedIn or email.
-<p align="center">
+</p><hr /><h2>Profile</h2><ul>
+  <li><strong>Specialisation:</strong> Unity and C# game development.</li>
+  <li><strong>Game types:</strong> 2D and 3D experiences.</li>
+  <li><strong>Platforms:</strong> Mobile and Dekstop.</li>
+  <li><strong>Priorities:</strong> Responsive gameplay, clear interfaces, and consistent performance.</li>
+</ul><h2>Development focus</h2><table>
+  <thead>
+    <tr>
+      <th align="left">Area</th>
+      <th align="left">Key focus</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Gameplay systems</strong></td>
+      <td>Player controls, game mechanics, physics, and animation.</td>
+    </tr>
+    <tr>
+      <td><strong>UI and interaction</strong></td>
+      <td>Menus, transitions, and player feedback.</td>
+    </tr>
+    <tr>
+      <td><strong>Performance and tooling</strong></td>
+      <td>Mobile optimization and reusable development systems.</td>
+    </tr>
+  </tbody>
+</table><h2>Technical skills</h2><table>
+  <thead>
+    <tr>
+      <th align="left">Category</th>
+      <th align="left">Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Engine</strong></td>
+      <td>Unity</td>
+    </tr>
+    <tr>
+      <td><strong>Languages</strong></td>
+      <td>C# · Python</td>
+    </tr>
+    <tr>
+      <td><strong>Development</strong></td>
+      <td>Visual Studio · VS Code · Git · GitHub</td>
+    </tr>
+    <tr>
+      <td><strong>Design</strong></td>
+      <td>Blender · Adobe Illustrator · Affinity</td>
+    </tr>
+  </tbody>
+</table><h2>Collaboration</h2><ul>
+  <li><strong>Open to:</strong> Game development collaborations and software engineering opportunities.</li>
+  <li><strong>Contact:</strong> <a href="https://www.linkedin.com/in/kanishka-gayanath-ranasingha-98b1b0180/">LinkedIn</a> or <a href="mailto:kanishka.gayanath1@gmail.com">email</a>.</li>
+</ul><hr /><p align="center">
   <a href="https://patorjk.com/games/snake/" title="Open a playable Snake game">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
